@@ -44,7 +44,7 @@ function Calculator() {
       <div>
         {result && (
           <p>
-            Result: {num1} + {num2} = {result}
+            Result:{num1}+{num2}={result}
           </p>
         )}
       </div>

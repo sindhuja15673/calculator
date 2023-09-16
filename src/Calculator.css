@@ -63,7 +63,12 @@ input:hover{
     }
     .background-image{
         width: 600px;
-        height: 600px;
+        height: 700px;
+    }
+    p{
+        
+        margin-left: 150px;
+        font-size: 30px;
     }
        
   }
