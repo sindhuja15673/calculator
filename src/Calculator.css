@@ -14,8 +14,10 @@ body{
     margin: 0px;
 }
 .cal{
+    
    margin-top: -400px;
    margin-left: 500px;
+   
    
 }
 
@@ -44,8 +46,24 @@ input{
 input:hover{
     background-color: rgb(251, 56, 35);
 }
+
+.calci{
+    margin: 0 auto;
+}
 @media (max-width: 768px) {
-    .calci {
+    .cal {
       width: 100%;
+      margin-top: -450px;
+      margin-left: 80px;
     }
+    .calci{
+        width: 100%;
+        height:10px ;
+    
+    }
+    .background-image{
+        width: 768px;
+        height: 500px;
+    }
+       
   }
